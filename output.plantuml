@@ -1,0 +1,9 @@
+@startuml
+
+class MyClass {
+}
+
+class AnotherClass {
+}
+
+@enduml
